@@ -1,4 +1,6 @@
-﻿namespace COMP_003A_LA1
+﻿using System;
+
+namespace COMP_003A_LA1
 {
     internal class Program
     {
